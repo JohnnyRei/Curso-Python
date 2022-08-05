@@ -20,6 +20,11 @@ print("Essa expressão não sera executada.")  # Fora do bloco while.
 x = 0
 
 while x < 100:  # Quando x for menor que 100 laço passa a ser false.
+    continue  # Sempre que achar essa palavra ele pula para proximo passo.
+  # if x == 3:
+  # x = x + 1
+  # 'break' para o laço while
+
     print(x)
     x = x + 1
 
