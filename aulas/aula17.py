@@ -1,15 +1,15 @@
 """
-Formatando valores com modificadores - Aula 5
+* Formatando valores com modificadores - Aula 5
 
-:s - Texto (strings)
-:d - Inteiros (int)
-:f - Números de ponto flutuante (float)
-:.(NÚMERO)f - Quantidade de casas decimais (float)
-: (CARACTERE) (> ou < ou ^) (QUANTIDADE) (TIPO - s, d ou f)
+* :s - Texto (strings)
+* :d - Inteiros (int)
+* :f - Números de ponto flutuante (float)
+* :.(NÚMERO)f - Quantidade de casas decimais (float)
+* : (CARACTERE) (> ou < ou ^) (QUANTIDADE) (TIPO - s, d ou f)
 
-> - Esquerda
-< - Direita
-^ - Centro
+* > - Esquerda
+* < - Direita
+* ^ - Centro
 """
 
 num_1 = 10

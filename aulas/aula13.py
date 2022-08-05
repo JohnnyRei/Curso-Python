@@ -1,5 +1,5 @@
 """
-Função 'len' para contar quantidade de caracteres.
+* Função 'len' para contar quantidade de caracteres.
 """
 
 usuario = input("Digite o nome do usuário? ")

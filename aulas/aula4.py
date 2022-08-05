@@ -1,19 +1,20 @@
-'''
-Tipos de dados primitivos:
+"""
+* Tipos de dados primitivos:
 
-str - string - texto 'Assim' "Assim"
-int - inteiro - 123456 0 -10 -20 -30
-float - real/ponto flutuante - 10.50 1.5 -10.7
-bool - booleano/lógico - True/False - 10 == 10
-'''
+* str - string - texto 'Assim' "Assim"
+* int - inteiro - 123456 0 -10 -20 -30
+* float - real/ponto flutuante - 10.50 1.5 -10.7
+* bool - booleano/lógico - True/False - 10 == 10
+"""
 
-'''print("teste", type("teste"))
+"""
+print("teste", type("teste"))
 print(10, type(10))
 print(25.23, type(25.23))
 print(10 == 10, type(10 == 10))
 
 print("10", type("10"), type(int("10")))
-'''
+"""
 
 # Cadastro.
 

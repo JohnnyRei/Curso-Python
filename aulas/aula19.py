@@ -1,9 +1,9 @@
 """
-while em Python - Aula 7
-utilizando para realizar ações enquanto
-uma condição for verdadeira.
+* while em Python - Aula 7
+* utilizando para realizar ações enquanto
+* uma condição for verdadeira.
 
-Requisitos: Entender condições e operadores.
+* Requisitos: Entender condições e operadores.
 """
 
 # Laços de repetição/ pense sempre como se foce um circulo.

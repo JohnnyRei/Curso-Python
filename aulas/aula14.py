@@ -1,5 +1,5 @@
 """
-    Checando o que foi digitado antes de fazer a conta.
+* Checando o que foi digitado antes de fazer a conta.
 """
 
 num1 = input("Digite um número: ")

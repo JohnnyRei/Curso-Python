@@ -1,6 +1,6 @@
 """
-Operadores Relacionais - Aula 4 - Usado para fazer compação.
-== > >= < <= !=
+* Operadores Relacionais - Aula 4 - Usado para fazer compação.
+* == > >= < <= !=
 """
 # "=" Afirmando "==" Perguntando.
 # Retorno Boolean.

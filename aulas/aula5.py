@@ -1,7 +1,7 @@
 """
-Tipos de operadores aritméticos:
+* Tipos de operadores aritméticos:
 
-+, -, *, /, //, **, %, ()
+* +, -, *, /, //, **, %, ()
 
 """
 print('adição +', 10 + 10)

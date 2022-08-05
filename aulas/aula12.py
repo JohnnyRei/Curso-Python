@@ -1,7 +1,7 @@
 """
-    Operadores Lógicos - Aula 4 - Usados para comparação.
-    and, or, not
-    in e not in
+* Operadores Lógicos - Aula 4 - Usados para comparação.
+* and, or, not
+* in e not in
 """
 
 # -----------------------------------------------------------------------------------------

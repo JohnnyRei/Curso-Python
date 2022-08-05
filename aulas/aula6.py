@@ -1,5 +1,5 @@
 """
-Iniciar com letra, pode conter números, separar _, lestras minúsculas.
+* Iniciar com letra, pode conter números, separar _, lestras minúsculas.
 """
 # Variável de atribuição.
 nome = 'Johnny Guimarães'
