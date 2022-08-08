@@ -1,10 +1,8 @@
-from tkinter import E
+senha = input("Digite a senha: ")
+tamanho_senha = len(senha)
 
-
-num_1 = 0
-num_2 = 0
-
-if not num_1 != num_2:
-    print('Retorno 1')
+while tamanho_senha < 8:
+    print("Senha deve ter no minimo 8 dígitos.")
+    break
 else:
-    print('Retorno 2')
+    print("Senha aceita.")
