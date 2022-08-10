@@ -6,18 +6,18 @@
 
 # -----------------------------------------------------------------------------------------
 
-# (Verdade 'E' Verdadeiro) =  Verdadeiro
-# (Verdadeiro 'E' Falso) = False
+#! (Verdade 'E' Verdadeiro) =  Verdadeiro
+#!(Verdadeiro 'E' Falso) = False
 comparacao1 and comparacao2
 
 # -----------------------------------------------------------------------------------------
 
-# (Verdadeiro 'OU' Verdadeiro)
+#! (Verdadeiro 'OU' Verdadeiro)
 comp1 or comp2
 
 # -----------------------------------------------------------------------------------------
 
-# Operador 'NOT' precisa só de uma expressao.
+#! Operador 'NOT' precisa só de uma expressao.
 a = 2
 b = 3
 
@@ -25,7 +25,7 @@ b = 3
 
 # -----------------------------------------------------------------------------------------
 
-# 'in' Operador pra saber se tem algo dentro da varíavel.
+#! 'in' Operador pra saber se tem algo dentro da varíavel.
 
 """
 nome = 'Johnny'
@@ -36,7 +36,7 @@ if 'J' in nome:
 
 # -----------------------------------------------------------------------------------------
 
-# Validação de senha e usário simples.
+#! Validação de senha e usário simples.
 usuario = input('Nome do usuário: ')
 senha = input('Senha: ')
 

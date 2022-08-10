@@ -26,6 +26,6 @@ nome = ("Johnny Guimarães")
 
 print(f'{nome:*^50}')  # *****************Johnny Guimarães*****************
 
-print(nome.lower())  # Tudo minusculo
-print(nome.upper())  # Tudo maiusculo
-print(nome.title())  # Primeiras letras maiusculas
+print(nome.lower())  # ! Tudo minusculo
+print(nome.upper())  # ! Tudo maiusculo
+print(nome.title())  # ! Primeiras letras maiusculas

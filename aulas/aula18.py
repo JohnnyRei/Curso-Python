@@ -19,12 +19,12 @@ print(texto[2])  # Saída = t
 
 # Negativos -[987654321]
 
-url = 'http://www.google.com/'  # Quero remover a barra do final.
+url = 'http://www.google.com/'  # ! Quero remover a barra do final.
 
 print(url[:-1])
 
 nova_string = texto[2:6]  # Pegando só o 'thon' de python.
 
-# Se eu quiser deis do começo coloco: [:6] / [0::] = pula de dois em dois.
+#! Se eu quiser deis do começo coloco: [:6] / [0::] = pula de dois em dois.
 
 print(texto[2])  # Saída = ts

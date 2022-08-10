@@ -2,7 +2,7 @@
 * Operadores Relacionais - Aula 4 - Usado para fazer compação.
 * == > >= < <= !=
 """
-# "=" Afirmando "==" Perguntando.
+#! "=" Afirmando "==" Perguntando.
 # Retorno Boolean.
 
 #print(2 != 2)
