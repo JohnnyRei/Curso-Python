@@ -19,4 +19,10 @@ CPF = 168.995.350-09
 Dígito 1 = 0         #  Dígito 2 = 9
 """
 
-cpf = (1689953509)
+cpf = [1689953509]
+novo_cpf = cpf[:9]
+
+for index in range(19):
+    if index > 8:
+        index -= 9
+        print(index)
