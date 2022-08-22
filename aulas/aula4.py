@@ -17,12 +17,14 @@ print("10", type("10"), type(int("10")))
 """
 
 # Cadastro.
-
 # String: Nome.
 print('Johnny', type('Johnny'))
+
 # Int: Idade.
 print(22, type(22))
+
 # Float: Altura.
 print(1.74, type(1.74))
+
 # Boolean: Se você e maior de idade.
 print(22 > 18, type(22 > 18))

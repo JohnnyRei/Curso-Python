@@ -14,7 +14,6 @@ Desafio do contador.
 
 contador0_10 = 0
 contador10_2 = 10
-
 """
 print(contador0_10)
 while contador0_10 < 8:

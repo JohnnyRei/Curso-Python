@@ -2,6 +2,7 @@
 * Operadores Relacionais - Aula 4 - Usado para fazer compação.
 * == > >= < <= !=
 """
+
 #! "=" Afirmando "==" Perguntando.
 # Retorno Boolean.
 
@@ -11,7 +12,6 @@ nome = input("Qual seu nome?")
 idade = input("Qual sua idade?")
 
 # Limite para pegar empréstimo.
-
 idade_menor = 20  # Muito jovem.
 idade_maior = 30  # Passou da idade.
 

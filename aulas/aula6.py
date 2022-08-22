@@ -2,6 +2,7 @@
 * Iniciar com letra, pode conter números, separar _, lestras minúsculas.
 """
 # Variável de atribuição.
+
 nome = 'Johnny Guimarães'
 idade = 22
 altura = 1.74

@@ -40,7 +40,6 @@ else:
     print("Erro digite horas validas")
 """
 
-"""
 # 3.
 nome = input("Informe o nome do usuário: ")
 tamanho = len(nome)
@@ -53,4 +52,3 @@ elif tamanho > 6:
     print("Nome usuário muito grande")
 else:
     print("Não foi digitado um nome valido.")
-"""

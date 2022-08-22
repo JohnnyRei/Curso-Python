@@ -1,6 +1,7 @@
 """
 * Condições IF, ELIF E ELSE - Aula 4
 """
+
 if False:
     print("Verdadeiro.")
 elif True:
