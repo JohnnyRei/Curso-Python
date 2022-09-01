@@ -10,6 +10,6 @@ if nome:
 else:
     print('Você não digitou nenhum nome.')
 """
-# ! =
+#! =
 
 print(nome or "Você não digitou nenhum nome.")

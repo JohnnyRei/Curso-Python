@@ -5,6 +5,7 @@
 * 2. Programa que pergunta a hora e da uma saudação dependendo do hórario informado. Ex: Bom dia 0-11,Boa Tarde 12-17 e Boa noite 18-23.
 * 3. Programa que pede nome do usúario se tiver 4 letras ou menos retorna str "Seu nome é curto", 5 a 6 normal e maior que 6 retorna é muito grande.
 """
+
 """ 
 # 1.
 num = input("Digite um número inteiro: ")
