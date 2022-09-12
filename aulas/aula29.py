@@ -1,5 +1,5 @@
 """
-*  Expressão condicional com operador OR. 
+* Expressão condicional com operador OR. 
 """
 
 nome = input('Digite seu nome: ')
@@ -10,6 +10,5 @@ if nome:
 else:
     print('Você não digitou nenhum nome.')
 """
-#! =
 
 print(nome or "Você não digitou nenhum nome.")

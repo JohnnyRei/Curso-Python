@@ -1,5 +1,5 @@
 """
-Desafio do contador.
+* Desafio do contador.
 
 0 10
 1 9

@@ -2,8 +2,8 @@
 * Invertendo o valor de duas variaveis no Python.
 """
 
-x = 7          # Johnny
-y = "Johnny"   # 7
+x = 7                  # Johnny
+y = "Johnny"           # 7
 
 x, y = y, x
 
